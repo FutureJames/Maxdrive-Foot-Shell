@@ -10,17 +10,26 @@ If you are using the prject file, everything is setup for you and the layout is 
 Alternativly, you can use the individual STL files.  You will need to print the following for EACH FOOT:
 
 (1) Foot Shell A
+
 (1) Foot Shell B (Actually its just a mirror of Foot shell A)
+
 (1) Front Trim
+
 (1) Rear Trim
+
 (2) skirt short
 
+
 (2) skirt long (Whole)
-      -or-
+
+---------or-----------
+      
 (2) skirt long (SplitA) 
+
 (2) skirt long (SplitB)
 
-If your Bed is a little smaller, you can use the pre-split long skirt, or just chop up the whole one for your needs.
+
+If your Print Bed is a little smaller, you can use the pre-split long skirt, or just chop up the whole one for your needs.
 
 
 These pieces make either a left or right foot, it just comes down to assembly of the Front and Read trim.  See the wiki for more instructions.
