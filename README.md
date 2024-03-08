@@ -9,6 +9,8 @@ https://astromech.net/forums/showthread.php?44476-MaxDrive-3D-Printable-Foot-She
 
 
 ![BambuStudioProject](https://github.com/FutureJames/Maxdrive-Foot-Shell/assets/6488279/68cdab67-c48d-4a32-889f-7ec731358b0a)
+Figure 1, suggested printing layout and orientation 
+
 
 To print this project you can use either the complete assembly file .3MF or pull the individual STLs into the slicer of your choosing.
 If you are using the prject file, everything is setup for you and the layout is optimal.  You can use BambuStudio or OrcaSlicer to open and print.
