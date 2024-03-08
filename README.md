@@ -3,6 +3,9 @@
 3D printable shell for this project:
 https://astromech.net/forums/showthread.php?40891-MaxDrive-Customizable-DIY-Foot-Drives&highlight=maxdrive
 
+Assembly Instructions here:
+https://astromech.net/forums/showthread.php?44476-MaxDrive-3D-Printable-Foot-Shells
+
 
 To print this project you can use either the complete assembly file .3MF or pull the individual STLs into the slicer of your choosing.
 If you are using the prject file, everything is setup for you and the layout is optimal.  You can use BambuStudio or OrcaSlicer to open and print.
