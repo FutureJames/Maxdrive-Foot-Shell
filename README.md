@@ -6,6 +6,11 @@ https://astromech.net/forums/showthread.php?40891-MaxDrive-Customizable-DIY-Foot
 Assembly Instructions here:
 https://astromech.net/forums/showthread.php?44476-MaxDrive-3D-Printable-Foot-Shells
 
+If you just want to print the shell, the 3MF file contains the entire project oriented in the optimal printing position.  I suggested Orca Slicer, if you are unfamiliar with this file format: https://github.com/SoftFever/OrcaSlicer
+
+The individual STL files are in the "3d Print Files" subdirectory if you prefer to organize them in some other slicer.
+
+The entire CAD assembly is avaiable in the "CAD Files" subdirectory if you want to make changes or use these files in your own projects.  These files are identifical, just different formats.  
 
 
 ![BambuStudioProject](https://github.com/FutureJames/Maxdrive-Foot-Shell/assets/6488279/68cdab67-c48d-4a32-889f-7ec731358b0a)
